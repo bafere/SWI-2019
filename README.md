@@ -123,5 +123,52 @@ After you're done there..
 
 ---
 
+## **EXAM**
+
+Remember to read instructions from Git. It will tell you what to do :)
+
+Update your master.
+
+Everybody open the file `exam`. 
+
+Read the instructions carefully please :). Use your notes or Google as much as you want. But do not talk with your classmates please.
+
+Please switch to a new branch. 
+
+Every line should be one commit (this time).
+
+  * so your first commit would just be changing a line
+  * and your second commit would change the other line
+  * and rest is yes/no questions - one per commit
+
+
+---
+
+After you're done there..
+
+1. Create a PR.
+
+1. You should have a PR with 10 commits, **not** on your master branch - if not, try again :).
+
+1. tell us - wait for a conflict
+
+1. update your branch & resolve conflicts (hint: rebase) (20%)
+
+1. reorder commits so that `next class`-related commits(questions 3, 5, 7) are together (10%)
+
+1. squash `next class`-related commits into one (hint: you should use two `s` not three) (20%)
+
+1. delete commit with question 1 (10%)
+
+1. rename commits about your previous experience with Git (questions 2, 4) to be in UPERCASE (hint: you do not rename the commit at the same time as you write `r` but later) (20%)
+
+1. edit commit that mentions SVN so answer is `Noooooooooooo` or `Yesssssssssss` (hint: you have to add changed file and amend commit) (20%)
+
+1. push (with `-f`orce) and check it's ok (you should have 7 commits)
+
+1. When done comment on your PR with something like `please review @himdel` or `please review @ZitaNemeckova`
+  
+---
+
 The course will be followed by [Software Engineering 2](https://is.mendelu.cz/katalog/syllabus.pl?kod=PEF:SWI2).  
 Details to be determined.
